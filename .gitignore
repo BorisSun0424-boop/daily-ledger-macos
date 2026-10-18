@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Swift Package Manager
+**/.build/
+**/.swiftpm/
+
+# Xcode user data
+DerivedData/
+**/xcuserdata/
+*.xcuserstate
+
+# Generated application bundles
+**/dist/
+*.app
+
+# Local ledger data
+ledger.json
+
+# Temporary files
+*.tmp
+*.swp
